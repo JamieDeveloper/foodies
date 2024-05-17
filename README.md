@@ -33,10 +33,10 @@ Follow these steps to set up the project locally:
 ## Pages
 
 ### Homepage
-![Homepage](path/to/homepage-image.png)
+![Homepage](homepg.png)
 
 ### Meals Page
-![Meals Page](path/to/meals-page-image.png)
+![Meals Page](mealspg.png)
 
 ### Share Page
-![Share Page](path/to/share-page-image.png)
+![Share Page](sharepg.png)
